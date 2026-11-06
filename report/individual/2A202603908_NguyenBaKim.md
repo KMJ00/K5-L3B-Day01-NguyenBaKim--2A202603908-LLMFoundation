@@ -2,7 +2,7 @@
 
 > Đổi tên file này thành `2A202603908_NguyenBaKim.md` của bạn, ví dụ `2A20260000_NguyenVanAn.md`, rồi điền từng mục. Xoá các dòng hướng dẫn in nghiêng khi xong.
 
-- **MSSV:2A202603908**
+- **MSSV:2A202603908**https://github.com/KMJ00/K5-L3B-Day01-NguyenBaKim--2A202603908-LLMFoundation/blob/main/report/individual/MSSV_HoTen.md
 - **Họ và tên:NGUYỄN BÁ KIM**
 - **SEED** (in ở ô đầu notebook):1859
 
